@@ -553,8 +553,7 @@
                     <object_ref id="13" parent="9" timeline="8" key="0" z_index="13"/>
                     <object_ref id="14" parent="11" timeline="14" key="0" z_index="14"/>
                     <object_ref id="15" parent="12" timeline="15" key="0" z_index="15"/>
-                    <object_ref id="16" parent="2" timeline="33" key="0" z_index="16"/>
-                    <object_ref id="17" parent="1" timeline="34" key="0" z_index="17"/>
+                    <object_ref id="16" parent="1" timeline="33" key="0" z_index="16"/>
                 </key>
                 <key id="1" time="461">
                     <bone_ref id="0" timeline="17" key="0"/>
@@ -590,8 +589,7 @@
                     <object_ref id="13" parent="9" timeline="8" key="0" z_index="13"/>
                     <object_ref id="14" parent="11" timeline="14" key="0" z_index="14"/>
                     <object_ref id="15" parent="12" timeline="15" key="0" z_index="15"/>
-                    <object_ref id="16" parent="2" timeline="33" key="0" z_index="16"/>
-                    <object_ref id="17" parent="1" timeline="34" key="0" z_index="17"/>
+                    <object_ref id="16" parent="1" timeline="33" key="0" z_index="16"/>
                 </key>
             </mainline>
             <timeline id="0" name="torso">
@@ -774,12 +772,7 @@
                     <bone x="20" angle="333.243658"/>
                 </key>
             </timeline>
-            <timeline id="33" name="belt">
-                <key id="0" spin="0">
-                    <object folder="0" file="11" x="8" y="-1" pivot_x="0.465206" pivot_y="0.433816" angle="91.054523"/>
-                </key>
-            </timeline>
-            <timeline id="34" name="head2_005">
+            <timeline id="33" name="head2_005">
                 <key id="0" spin="0">
                     <object folder="0" file="13" x="6" y="4" angle="271.800312"/>
                 </key>
